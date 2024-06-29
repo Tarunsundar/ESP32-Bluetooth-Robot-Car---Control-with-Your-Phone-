@@ -37,10 +37,6 @@ This project was developed to implement a simple Bluetooth-controlled robot car 
 - Jumper wires
 - Battery pack
 
-## Circuit Diagram
-
-[Include a circuit diagram here, or provide a link to an image of your circuit diagram.]
-
 ## Setup and Installation
 
 1. **Hardware Assembly:**
